@@ -1,4 +1,5 @@
-FROM hleon256/ubuntu-test
+#FROM hleon256/ubuntu-test
+FROM hleon256/nginx
 ENV http_proxy=http://16.216.235.20:8080
 ENV https_proxy=http://16.216.235.20:8080
 
