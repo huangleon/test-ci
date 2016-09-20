@@ -10,7 +10,7 @@
 /*   font-weight: bold;*/
 
 /*   font-size: 13px;*/
-   font-size: 35px;
+   font-size: 15px;
 }
 
 h1, h2, h3, h4, h5, h6, p, a, ul, ol, li
@@ -224,8 +224,8 @@ body
    color: #423d41;
 /*   color: #ff9999;*/
 /*   color: #99ff99;*/
-   background-color: #FFFFFF;
-/*   background-color: #99ccFF;*/
+/*   background-color: #FFFFFF;*/
+   background-color: #99ccFF;
 }
 
 .cleared
